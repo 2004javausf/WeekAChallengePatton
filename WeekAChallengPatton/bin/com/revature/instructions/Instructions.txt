@@ -1,0 +1,11 @@
+New Java Project (check)
+**Have a package structure that makes sense** (check)
+Make 2 beans (check)
+Make a driver class (class that has the main method) (check)
+Driver class- utilize each type of control statement (check)
+              utilize a wrapper class
+              Overload the same method 3 times (check?)
+              Utilize the Scanner to take in user input to instantiate objects (check)
+                ex. If you have a Human object, take in user input to instantiate the Human object's name etc.
+              Instantiate 2 objects of each type. (check)
+Save work to a new Repo called WeekAChallenge<LastName> (check)
